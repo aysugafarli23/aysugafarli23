@@ -6,8 +6,12 @@
 	 I'm a Software Developer
 </h2>
 
+<p>
+   <img align="right" width="350" height="350" src="https://github.com/aysugafarli23/test/blob/main/girl.jpg" />	
+</p>
 
-![developer girl](https://github.com/aysugafarli23/test/blob/main/girl.jpg)
+
+
 - 👀 I’m interested in **remote jobs**
 - 🌱 I’m currently learning **React & Django**
 - 🚀 I’m looking to collaborate on new projects
