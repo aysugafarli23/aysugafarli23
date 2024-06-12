@@ -13,7 +13,7 @@
 
 
 - 👀 I’m interested in **remote jobs**
-- 🌱 I’m currently learning **React & Django**
+- 🌱 I’m currently learning **React & DRF**
 - 🚀 I’m looking to collaborate on new projects
 - 📫 How to reach me aysuqafarli02@gmail.com 
 - 🦆 Hobbies: **Learning Korean and culture | networking | enjoying nature**
