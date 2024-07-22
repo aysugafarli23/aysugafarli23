@@ -20,10 +20,12 @@
 
 
 
+
 <h3 align="left">Portfolio:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aysu-gafarli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aysu_gafarli" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
@@ -33,4 +35,6 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="45" height="40"/> </a>  -->
 </p>
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aysugafarli23&show_icons=true&locale=en" alt="aysu-gafarli" /></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aysugafarli23&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
