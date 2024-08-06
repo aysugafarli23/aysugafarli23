@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **AI & DRF**
 - 🚀 I’m looking to collaborate on new projects
 - 📫 How to reach me aysuqafarli02@gmail.com 
-- 🦆 Hobbies: **Learning Korean and culture | traveling | enjoying nature**
+- 🦆 Hobbies: **Learning Korean and culture + traveling + cooking + enjoying nature**
 
 
 
