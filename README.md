@@ -1,5 +1,5 @@
 <h1 align="center">
-	👋 Hi, I’m Aysu Gafarli
+	👋 Hi, I’m Aysu Gafarli  <img align="right" width="65px" height="55px" src="https://github.com/aysugafarli23/profile_image/blob/ec5f808b28c94168cf231c79b6580c604458f062/b22.png" />
 </h1>
 
 <h2 align="center">
@@ -7,7 +7,7 @@
 </h2>
 
 <p>
-   <img align="right"  src="https://github.com/aysugafarli23/profile_image/blob/ec5f808b28c94168cf231c79b6580c604458f062/b22.png" />	
+   <img align="right"  width="35%" height="auto" src="https://github.com/aysugafarli23/profile_image/blob/9bb7a7f3df161640c0962b9fbc362a72245af46b/giphy.webp" />	
 </p>
 
 
