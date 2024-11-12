@@ -7,7 +7,7 @@
 </h2>
 
 <p>
-   <img align="right" width="350" height="350" src="https://github.com/aysugafarli23/test/blob/main/girl.jpg" />	
+   <img align="right"  src="https://github.com/aysugafarli23/profile_image/blob/ec5f808b28c94168cf231c79b6580c604458f062/b22.png" />	
 </p>
 
 
